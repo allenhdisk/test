@@ -1,2 +1,1 @@
-I am a ham and some people call me sam. This is my first commit.
-
+Changes to the first txt
